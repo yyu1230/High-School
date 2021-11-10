@@ -37,9 +37,9 @@ Last updated 09 November 2021
 * INVENTED ABBREVIATIONS
   - deity (plural, deities): refers to all mythological figures, both gods and
     mortals, in the Theogony family tree
-  - primor (plural, primors): i.e., "deities" whose parents are not included in
-    the family tree, i.e., primordial gods + mortals of ungodly descent
-    (highlighted yellow in spreadsheet; genotype designated directly by user)
+  - primor (plural, primors): "deities" whose parents are not included in the
+    family tree, i.e., primordial gods + mortals of ungodly descent (highlighted
+    yellow in spreadsheet; genotype designated directly by user)
   - posterity (plural, posterities): all non-"primor" figures in the family tree
 
 * PROGRAM PROCEDURES
@@ -84,7 +84,7 @@ Last updated 09 November 2021
     + their personification/role(s)
     + possible controversies
     + additional notes
-  - The complete Excel spreadsheet is accessible on GitHub (by me):
+  - The complete Excel spreadsheet is accessible on GitHub:
     https://github.com/yyu1230/Miscellaneous/blob/main/greek_deities_genetic_
     risks/greek_deities_pedigree.xlsx
 
@@ -171,9 +171,9 @@ Last updated 09 November 2021
     professional or moral obligation but out of kindness and concern. Without
     his help, I would not have been able to enter the library and thus would not
     have had as peaceful a working environment, which could impact the quality
-    of my work.
+    of this work.
   - I would like to thank my parents for not committing filicide when they
-    learned that their daughter had spent an entire day studying the sexual
+    learned that their daughter had spent an entire weekend studying the sexual
     encounters of Greek mythological figures instead of working on her college
     essays as she should. Ultimately, it had been their magnanimity that enabled
     me to complete this project. (JK.)
@@ -184,7 +184,7 @@ Last updated 09 November 2021
     Mammalia Primates Haplorhini Simiiformes Hominidae Homininae Hominini Homo
     Sapien (i.e., human being), I apologize for any mistakes I may have made and
     of which I am not currently aware. In the event that you notice any such
-    errors, please let me know.
+    errors, please let me know at y.grace.yu@outlook.com
 
 ********************************************************************************
 

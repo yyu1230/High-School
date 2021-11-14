@@ -3,7 +3,7 @@
 # GREEK DEITIES GENETIC RISKS
 # -- Capstone Greek and Roman History Unit Project
 # Author: Yongqing Grace Yu
-# Last updated 10 November 2021
+# Last updated 11 November 2021
 
 
 
@@ -13,7 +13,7 @@ print('''
 GREEK DEITIES GENETIC RISKS
 -- Capstone Greek and Roman History Unit Project
 Author: Yongqing Grace Yu
-Last updated 09 November 2021
+Last updated 11 November 2021
 
 * RESEARCH QUESTION
   - How do genetic illnesses pass down the incestuous Greek mythological family

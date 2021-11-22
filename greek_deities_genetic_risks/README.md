@@ -1,11 +1,8 @@
 # Greek Deities Genetic Risks
-
--- Capstone Greek and Roman History Unit Project
-
-Author: Yongqing Grace Yu (y.grace.yu@outlook.com)
-
-Last updated 11 November 2021
-
+-- Capstone Greek and Roman History Unit Project\
+Author: Yongqing Grace Yu (y.grace.yu@outlook.com)\
+Last updated 11 November 2021\
+This project is licensed under the terms of the MIT license.
 
 * RESEARCH QUESTION
   - How do genetic illnesses pass down the incestuous Greek mythological family

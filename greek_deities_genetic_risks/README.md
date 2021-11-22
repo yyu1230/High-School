@@ -42,8 +42,8 @@ Last updated 11 November 2021
     the program will return their probabilities of having genotypes nn, nd, and
     dd, and interpret these results in the contexts of the genetic illness being
     autosomal recessive, dominant, co-dominant, or incompletely dominant.
-  - Finally, when you enter "quit," the program will exit with thoughtful advice
-    (you are welcome!) on why it is not a good idea to marry your relatives.
+  - Finally, when you enter "quit," the program will exit with *thoughtful advice
+    (you are welcome!)* on why it is not a good idea to marry your relatives.
 
 * NOTES ON "DEITIES"
   - Primordial gods: Chaos, Gaea, Tartaros, Eros

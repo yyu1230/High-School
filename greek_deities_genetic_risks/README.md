@@ -1,5 +1,5 @@
 # Greek Deities Genetic Risks
--- Capstone Greek and Roman History Unit Project\
+-- Capstone Greek and Roman History (my high school class) Unit Project\
 Author: Yongqing Grace Yu (y.grace.yu@outlook.com)\
 Last updated 11 November 2021\
 This project is licensed under the terms of the MIT license.

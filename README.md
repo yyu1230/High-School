@@ -1,2 +1,2 @@
 # Miscellaneous
-Interesting side projects that don't belong to my other repositories.
+My interesting side projects that don't belong to any other repositories.

@@ -20,7 +20,7 @@ This project is licensed under the terms of the MIT license.
 
 ## Invented Abbreviations
 - `deity` (plural, deities): refers to all mythological figures, both gods and mortals, in the Theogony family tree
-- `primor` (plural, primors): "deities" whose parents are not included in the family tree, i.e., primordial gods + mortals of ungodly descent (highlighted yellow in the [spreadsheet](https://github.com/yyu1230/Miscellaneous/blob/main/greek_deities_genetic_risks/greek_deities_pedigree.xlsx); genotype designated directly by the user)
+- `primor` (plural, primors): "deities" whose parents are not included in the family tree, i.e., primordial gods + mortals of ungodly descent (highlighted yellow in the [spreadsheet](https://github.com/yyu1230/High-School/blob/main/greek_deities_genetic_risks/greek_deities_pedigree.xlsx); genotype designated directly by the user)
 - `posterity` (plural, posterities): all non-"primor" figures in the family tree
 
 
